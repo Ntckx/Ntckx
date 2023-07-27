@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nontakorn Chatkoonsathien
 =================================================================================================================================================
 
-Just a CS Student, who need a cup of coffee before code😏😏😏☕☕☕
+Just a CS Student, who cannot code without a cup of coffee 😏😏😏☕☕☕
 -----------------
 
 I am currently studying Web App Dev.
@@ -33,4 +33,4 @@ I am currently studying Web App Dev.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Ntckx"><img src="https://github-readme-stats.vercel.app/api?username=Ntckx&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="Ntckx's GitHub stats" /></a>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
