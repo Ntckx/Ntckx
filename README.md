@@ -5,7 +5,7 @@ I am Junior computer science student at King Mongkut’s University of Technolog
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [nontakorn2424.chatk@gmail.com](mailto:Nontakorn2424.chatk@gmail.com)
-* 🧠  I'm currently
+* 💻 Currently exploring **Software Development & Cybersecurity** 
 
 ---
 
