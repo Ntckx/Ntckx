@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🛡️ Core Tech: Java (Spring Boot), NestJS, MySQL, and DevOps automation.<br><br>🚀 Current Project: Developing Spring Boot application, a security-focused authentication engine using JWT and BCrypt.
+🛡️ Core Tech: Java (Spring Boot), NestJS, MySQL.<br><br>🚀 Current Project: Developing Spring Boot application, a security-focused authentication engine using JWT and BCrypt.
 
 
 ## 🌐 Socials:
